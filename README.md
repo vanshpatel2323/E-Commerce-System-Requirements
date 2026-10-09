@@ -1,91 +1,107 @@
-# E-Commerce System Requirements
+# E-Commerce System Requirements Analysis
 
-## Business Analysis Project
-
-A professional Business Analysis practice project focused on analyzing and documenting requirements for an e-commerce system.
-
-The project demonstrates the complete requirement analysis process, including business requirements, functional requirements, user stories, acceptance criteria, business process analysis, gap analysis, UAT, and Agile/Scrum planning.
-
----
+**Academic Practice Project | Business Analyst Portfolio**
 
 ## Project Overview
 
-The objective of this project is to analyze an e-commerce business process and convert business needs into clear, structured, and testable system requirements.
+This project demonstrates the requirements analysis and documentation process for a proposed e-commerce system. It focuses on understanding business needs, documenting system requirements, analyzing business processes, and preparing testing documentation.
 
-The project focuses on the customer shopping journey from registration and product discovery to checkout, payment, order confirmation, and order tracking.
+The project follows Business Analysis practices and incorporates concepts from the Software Development Life Cycle (SDLC) and Agile methodology.
 
----
+## Business Problem
 
-## Business Analyst Responsibilities
+An e-commerce business needs a structured system to help customers discover products, manage shopping carts, complete purchases, and track orders.
 
-- Requirement Gathering
-- Requirement Analysis
-- Stakeholder Identification
-- Business Process Analysis
-- BRD / FRD Documentation
-- User Story Creation
-- Acceptance Criteria Definition
-- Gap Analysis
-- UAT Test Scenario Preparation
-- Requirement Traceability
-- Agile / Scrum Planning
+Without clearly defined requirements and business processes, a project may experience inconsistent functionality, unclear expectations, and incomplete testing.
 
----
+## Project Objectives
 
-## Key Modules
+* Identify business requirements and stakeholder expectations.
+* Document functional and non-functional requirements.
+* Create user stories and acceptance criteria.
+* Map business processes and identify potential gaps.
+* Prepare User Acceptance Testing (UAT) test cases.
+* Establish requirements traceability.
+* Identify project risks, assumptions, and dependencies.
+* Demonstrate Agile backlog management and sprint planning.
 
-- Customer Registration & Login
-- Product Search & Browsing
-- Shopping Cart
-- Checkout & Payment
-- Order Management
-- Order Tracking
-- Admin Product Management
-- Admin Order Management
+## Project Scope
 
----
+### In Scope
 
-## Project Documentation
+* Customer registration and login
+* Product search and browsing
+* Shopping cart management
+* Checkout and payment processing requirements
+* Order confirmation and tracking
+* Product and order administration
+* UAT planning and requirements validation
 
-| Document | Description |
-|---|---|
-| Business Requirements | Defines business needs and objectives |
-| Functional Requirements | Defines system functionality |
-| User Stories | Captures requirements from the user's perspective |
-| Acceptance Criteria | Defines conditions for requirement acceptance |
-| Process Flow | Represents the customer order workflow |
-| Gap Analysis | Identifies process gaps and proposed solutions |
-| UAT Scenarios | Validates requirements from the user's perspective |
-| BRD | Business Requirements Document |
-| FRD | Functional Requirements Document |
-| Agile Sprint Plan | Organizes requirements into sprints |
+### Out of Scope
 
----
+* Production payment gateway implementation
+* Physical delivery operations
+* Advanced AI-based product recommendations
+* Warehouse automation
 
-## Methodology
+## Documentation
 
-**Agile / Scrum**
+| No. | Document                                                                        | Description                                                |
+| --- | ------------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| 01  | [Project Overview](docs/01_Project_Overview.md)                                 | Project objectives, scope, and business problem            |
+| 02  | [Stakeholder Analysis](docs/02_Stakeholder_Analysis.md)                         | Stakeholders, responsibilities, and communication          |
+| 03  | [Business Requirements](docs/03_Business_Requirements.md)                       | Business needs and success criteria                        |
+| 04  | [Functional Requirements](docs/04_Functional_Requirements.md)                   | Required system functionality                              |
+| 05  | [Non-Functional Requirements](docs/05_Non_Functional_Requirements.md)           | Performance, security, usability, and quality expectations |
+| 06  | [User Stories](docs/06_User_Stories.md)                                         | Requirements expressed from the user's perspective         |
+| 07  | [Acceptance Criteria](docs/07_Acceptance_Criteria.md)                           | Conditions for accepting system functionality              |
+| 08  | [Business Process Flow](docs/08_Business_Process_Flow.md)                       | Customer order workflow and decision points                |
+| 09  | [Gap Analysis](docs/09_Gap_Analysis.md)                                         | Potential process gaps and recommended improvements        |
+| 10  | [UAT Test Cases](docs/10_UAT_Test_Cases.md)                                     | Planned user acceptance tests                              |
+| 11  | [Requirements Traceability Matrix](docs/11_Requirements_Traceability_Matrix.md) | Mapping requirements to user stories and test cases        |
+| 12  | [Risks and Assumptions](docs/12_Risks_and_Assumptions.md)                       | Potential risks, assumptions, and dependencies             |
+| 13  | [Agile Sprint Planning](docs/13_Agile_Sprint_Planning.md)                       | Product backlog and proposed sprint plan                   |
+| 14  | [Project Conclusion](docs/14_Project_Conclusion.md)                             | Deliverables, skills demonstrated, and future enhancements |
 
-Requirements are organized into user stories and prioritized in a product backlog. Features are planned across multiple sprints with defined acceptance criteria and UAT scenarios.
+## Business Analyst Skills Demonstrated
 
----
+* Requirements Gathering and Analysis
+* Business Requirement Documentation (BRD)
+* Functional Requirement Documentation (FRD)
+* Stakeholder Analysis
+* Business Process Analysis
+* Gap Analysis
+* User Stories and Acceptance Criteria
+* Agile and Scrum Concepts
+* UAT Test Case Preparation
+* Requirements Traceability Matrix (RTM)
+* Risk and Assumption Analysis
+* Business Documentation
 
-## Project Outcome
+## Tools and Methodologies
 
-The project demonstrates how a Business Analyst can:
+**Tools:** GitHub, Markdown
 
-**Understand Business Needs → Gather Requirements → Analyze Processes → Document Requirements → Define User Stories → Validate Requirements**
-
----
+**Methodologies and Concepts:** Business Analysis, SDLC, Agile, Scrum, UAT, Requirements Traceability
 
 ## Project Status
 
-**Status:** In Progress
+**Current Stage:** Requirements Documentation and Analysis
 
-This repository will be updated as the project documentation and analysis are completed.
+The documentation has been prepared as an academic practice project. The proposed system has not been implemented or deployed, and the UAT test cases have not yet been executed against a working application.
 
----
+## Future Improvements
 
-## Skills Demonstrated
+* Create UI wireframes and process diagrams.
+* Develop a clickable prototype.
+* Implement the proposed system.
+* Execute UAT and document actual test results.
+* Maintain requirement versions and change history.
+* Add stakeholder feedback and approval records.
 
-`Business Analysis` `Requirements Gathering` `BRD` `FRD` `User Stories` `Acceptance Criteria` `UAT` `Gap Analysis` `Process Analysis` `Agile` `Scrum` `SDLC`
+## Author
+
+**Vansh Patel**
+BSc IT — Software and Mobile Application
+
+Aspiring Business Analyst with an interest in requirements analysis, business processes, data analysis, and technology-driven solutions.
